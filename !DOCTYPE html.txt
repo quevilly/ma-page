@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma Page Personnelle</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bienvenue sur Ma Page Personnelle !</h1>
+        <img src="votre_photo.jpg" alt="Votre Photo" style="width: 200px; border-radius: 50%;">
+        <p>Je suis [Votre Prénom/Nom], passionné(e) par [votre domaine d'intérêt].</p>
+        <p>Sur cette page, vous trouverez des informations me concernant ainsi que mes intérêts et mes réalisations.</p>
+        <h2>À Propos de Moi</h2>
+        <p>Je suis un(e) [votre profession ou étudiant(e)], basé(e) à [votre localisation].</p>
+        <p>Je suis passionné(e) par [vos passions ou domaines d'intérêt], et je cherche toujours à apprendre et à grandir dans ce domaine.</p>
+        <h2>Me Contacter</h2>
+        <p>Vous pouvez me contacter via mon adresse e-mail : [votre e-mail].</p>
+        <p>Vous pouvez également me suivre sur les réseaux sociaux :</p>
+        <p>
+            <a href="lien_vers_votre_profil_facebook">Facebook</a> |
+            <a href="lien_vers_votre_profil_twitter">Twitter</a> |
+            <a href="lien_vers_votre_profil_linkedin">LinkedIn</a>
+        </p>
+    </div>
+
+</body>
+</html>
